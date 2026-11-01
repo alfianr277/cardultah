@@ -1,4 +1,0 @@
-Taruh foto di folder ini dengan nama:
-foto1.jpg, foto2.jpg, foto3.jpg, dst.
-(huruf kecil semua, ekstensi .jpg)
-Hapus file ini kalau mau.
