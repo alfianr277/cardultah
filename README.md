@@ -2,7 +2,7 @@
 
 Kartu ucapan ulang tahun berbentuk buku digital. Buku awalnya tersegel, jadi harus diketuk beberapa kali sebelum bisa dibuka. Setelah terbuka, ada halaman-halaman berisi foto kenangan dan ucapan, ditutup dengan kue ulang tahun, confetti, dan kembang api.
 
-🔗 **Lihat di sini:** LINK-ANDA
+🔗 **Lihat di sini:** [LINK-ANDA](https://alfianr277.github.io/cardultah/)
 
 ## ✨ Fitur
 - Buku tersegel dengan efek suara saat segel diketuk dan dibuka
